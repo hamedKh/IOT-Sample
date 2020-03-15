@@ -1,0 +1,50 @@
+{
+    "SensorsProjectName": "Proejct Name ...",
+	"Graph_X_Lable": "Time \n Date & Time",
+	"Graph_Y_Lable": "Temperature \n Celcious",
+    "Rows": 2,
+    "sensorsList": [
+        {
+            "SensorName": "Sensor List Number = 0",
+            "Rows": 3,
+            "sensorDataList": [
+                {
+                    "row": 0,
+                    "SensorValue": 7.0,
+                    "time": "2019-11-14 21:28:02"
+                },
+                {
+                    "row": 1,
+                    "SensorValue": 19.0,
+                    "time": "2019-11-14 22:45:02"
+                },
+                {
+                    "row": 2,
+                    "SensorValue": 3.6,
+                    "time": "2019-11-15 04:05:02"
+                }
+            ]
+        },
+        {
+            "SensorName": "Sensor List Number = 1",
+            "Rows": 3,
+            "sensorDataList": [
+                {
+                    "row": 0,
+                    "SensorValue": 8.0,
+                    "time": "2019-11-14 22:42:02"
+                },
+                {
+                    "row": 1,
+                    "SensorValue": 32.5,
+                    "time": "2019-11-15 01:28:02"
+                },
+                {
+                    "row": 2,
+                    "SensorValue": 29.0,
+                    "time": "2019-11-15 03:20:02"
+                }
+            ]
+        }
+    ]
+}
